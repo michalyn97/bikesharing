@@ -18,12 +18,14 @@ and a slight peak in the mornings around 8 am
 ![image](https://user-images.githubusercontent.com/30275459/148666106-7dbb7b1f-0ef2-4598-9281-89acfbc0afbd.png)
 
 
-With a majority of your rider being male
+With a majority of your riders being male
 
 ![image](https://user-images.githubusercontent.com/30275459/148666041-e241c7dc-6ebb-4a99-9ba2-c51b533f7d3c.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/30275459/148666145-a8da180b-b214-48b9-b88b-3d0ca9f9f0fa.png)
+
 
 
 And an average checkout time of around 20 minutes
@@ -33,12 +35,17 @@ And an average checkout time of around 20 minutes
 
 ![image](https://user-images.githubusercontent.com/30275459/148666076-da997334-f9e3-4b6e-9428-7e60318ca6e3.png)
 
-A plus to the program is a majority of the customers are subscribers with the average peak day on Thursdays.
+
+
+A plus to the program is a majority of the customers are subscribers with the average peak day is on Thursdays.
 
 ![image](https://user-images.githubusercontent.com/30275459/148666185-716b49ae-f888-494f-af01-43a562a7f9ba.png)
 
 
+# Summary
 
+With most of the bike riders being subsribers the bike sharing program will be successful in Des Moines, IA based upon our data.   
+We may want to take a look visually at the peak times during the entire year as well as well as if we can get more female subscribers.   There may be a market for bike rentals within the 20 - 25 age range.   
 
 
 
