@@ -34,7 +34,7 @@ And an average checkout time of around 20 minutes
 
 ![image](https://user-images.githubusercontent.com/30275459/148666066-8b649447-7560-4d43-b8ae-6a3cdbb81b50.png)
 
-Further demonstrating the peak checkout timmes by males
+Further demonstrating the peak checkout times by males
 
 ![image](https://user-images.githubusercontent.com/30275459/148666076-da997334-f9e3-4b6e-9428-7e60318ca6e3.png)
 
