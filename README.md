@@ -23,6 +23,8 @@ With a majority of your riders being male
 ![image](https://user-images.githubusercontent.com/30275459/148666041-e241c7dc-6ebb-4a99-9ba2-c51b533f7d3c.png)
 
 
+Peak days for male bike riders are Thursdays aqround 8 am and 5 to 7 pm
+
 
 ![image](https://user-images.githubusercontent.com/30275459/148666145-a8da180b-b214-48b9-b88b-3d0ca9f9f0fa.png)
 
