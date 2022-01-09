@@ -51,4 +51,4 @@ With most of the bike riders being subsribers the bike sharing program will be s
 We may want to take a look visually at the peak times during the entire year as well as if we can get more female subscribers.   There may be a market for bike rentals female subscribers within the 20 - 25 age range.   
 
 
-
+[link to dashboard](https://public.tableau.com/app/profile/michal.upchurch/viz/NYCBikeAnalysis_16416986740120/NYCbikeAnalysis?publish=yes "link to dashboard")
