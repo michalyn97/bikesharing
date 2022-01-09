@@ -45,7 +45,7 @@ A plus to the program is a majority of the customers are subscribers with the av
 # Summary
 
 With most of the bike riders being subsribers the bike sharing program will be successful in Des Moines, IA based upon our data.   
-We may want to take a look visually at the peak times during the entire year as well as well as if we can get more female subscribers.   There may be a market for bike rentals within the 20 - 25 age range.   
+We may want to take a look visually at the peak times during the entire year as well as if we can get more female subscribers.   There may be a market for bike rentals female subscribers within the 20 - 25 age range.   
 
 
 
